@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Despre"
 weight: 3
 header_menu: true
 ---
@@ -8,6 +8,7 @@ header_menu: true
 
 ##### Professionel Experience
 
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
+Sunt un designer  de interior entuziasmat să creez spații interioare frumoase și funcționale care îmbunătățesc viața oamenilor. Sunt dedicat să ascult nevoile și ideile clienților mei și să lucrez în colaborare pentru a crea design-uri adaptate preferințelor și bugetului lor. 
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+Cu o bază solidă în principiile de design și un ochi pentru detalii, sunt angajat să învăț continuu și să fiu la curent cu cele mai recente tendințe și tehnici din industrie. Sunt entuziasmat să îmi aduc pasiunea și creativitatea în fiecare proiect la care lucrez și să ajut clienții mei să atingă spațiul la care au visat întotdeauna
+

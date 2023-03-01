@@ -7,9 +7,9 @@ disableKinds:
   - robotsTXT
 defaultContentLanguage: en
 theme: hugo-scroll-master
-title: Jane Doe - Nutrition Coach & Chef Consultant
+title: ACTUAL Design Studio
 params:
-  copyright: © Jane Doe
+  copyright: © ActualDesignStudio
   description: Nutrition Coach & Chef Consultant
   favicon: images/favicon.png
   images:
