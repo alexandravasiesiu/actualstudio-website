@@ -18,12 +18,11 @@ $sections (where $sections "Draft" "==" false) }}
         class="blog-logo"
         src="images/logo-actual.png"
         alt="Logo Image"
+        style="width: 100%"
         {{
         .
         }}
       />
-      {{ end }} {{ with .Params.header_subheadline }}
-      <h2 class="blog-description">{{ . }}</h2>
       {{ end }} {{ range where $sections ".Params.header_menu" "eq" true }}
       <a class="btn site-menu" data-title-anchor="{{ anchorize .Title }}"
         >{{ .Title }}</a
