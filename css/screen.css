@@ -101,13 +101,13 @@ a.fa {
 }
 ::-moz-selection {
   color: #222;
-  background: #d6edff;
+  background: #dad4c6;
   text-shadow: none;
 }
 
 ::selection {
   color: #222;
-  background: #d6edff;
+  background: #dad4c6;
   text-shadow: none;
 }
 .left {
@@ -180,15 +180,15 @@ a {
 }
 
 a:hover {
-  color: #22343a;
+  color: #616c6e;
 }
 
 a.btn {
   text-decoration: none;
-  background-color: #22343a;
+  background-color: #d6d0c0;
   border-radius: 6px;
   -webkit-border-radius: 6px;
-  color: white;
+  color: black;
   display: inline-block;
   font-size: 16px;
   letter-spacing: 1px;
@@ -204,7 +204,7 @@ a.btn {
 }
 
 a.btn:hover {
-  background: #0e1315;
+  background: transparent;
 }
 
 #header-arrow {
@@ -450,7 +450,7 @@ ul li {
 .inner {
   position: relative;
   width: 80%;
-  max-width: 700px;
+  max-width: 400px;
   margin: 0 auto;
 }
 
@@ -472,7 +472,7 @@ ul li {
   height: 100%;
   margin-bottom: 0rem;
   text-align: center;
-  color: #fff;
+  color: #d6d0c0;
   background: #a6b1b9 no-repeat center center;
   background-size: cover;
 }
@@ -812,9 +812,9 @@ a.fn-item.active {
   font-family: "Open Sans", sans-serif;
   font-size: 1.3rem;
   line-height: 1.5em;
-  color: #bbc7cc;
+  color: #ffffff;
   text-align: center;
-  background: #22343a;
+  background: #4d5557;
 }
 
 .site-footer a {
