@@ -10,10 +10,10 @@ theme: hugo-scroll-master
 title: ACTUAL Design Studio
 params:
   copyright: © ActualDesignStudio
-  description: Nutrition Coach & Chef Consultant
+  description: Actual Design Studio
   favicon: images/favicon.png
   images:
     - images/cover-image.jpg
-  title: Jane - Nutrition Coach & Chef Consultant
+  title: Actual Design Studio
   meta:
-    keywords: "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+    keywords: "design, interior, colors"
