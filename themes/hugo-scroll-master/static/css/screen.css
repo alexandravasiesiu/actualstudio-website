@@ -1011,9 +1011,7 @@ a.fn-item.active {
 
   .inner,
   .pagination {
-    width: auto;
-    margin-left: 16px;
-    margin-right: 16px;
+    width: 50%;
   }
 
   .post {
