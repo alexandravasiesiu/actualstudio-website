@@ -10,5 +10,5 @@ header_menu: true
 
 Sunt un designer  de interior entuziasmat să creez spații interioare frumoase și funcționale care îmbunătățesc viața oamenilor. Sunt dedicat să ascult nevoile și ideile clienților mei și să lucrez în colaborare pentru a crea design-uri adaptate preferințelor și bugetului lor. 
 
-Cu o bază solidă în principiile de design și un ochi pentru detalii, sunt angajat să învăț continuu și să fiu la curent cu cele mai recente tendințe și tehnici din industrie. Sunt entuziasmat să îmi aduc pasiunea și creativitatea în fiecare proiect la care lucrez și să ajut clienții mei să atingă spațiul la care au visat întotdeauna
+Cu o bază solidă în principiile de design interior și un ochi pentru detalii, sunt dornică să învăț constant și să fiu la curent cu cele mai recente tendințe și tehnici din industrie. Îmi placesă îmi aduc pasiunea și creativitatea în fiecare proiect la care lucrez și să ajut pe voi, clienții mei, să faceți dintr-o casă, acasă.
 
